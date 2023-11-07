@@ -9,6 +9,7 @@ This C++ program provides a minimalistic and efficient CGPA (Cumulative Grade Po
 - **Clear Display**: Presents a clear overview of total credits and the calculated CGPA.
 
 ## Screenshots
+![image](https://github.com/HackStyx/Basic-CGPA-Calculator/assets/137396151/c6cb0490-aa75-4d37-9828-2bcd533fe691)
 
 ## Usage
 

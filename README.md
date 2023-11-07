@@ -14,7 +14,7 @@ This C++ program provides a minimalistic and efficient CGPA (Cumulative Grade Po
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/cgpa-calculator.git
+   git clone https://github.com/HackStyx/Basic-CGPA-Calculator.git
    cd cgpa-calculator` 
 
 2.  **Compile and Run:**

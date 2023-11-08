@@ -20,7 +20,7 @@ This C++ program provides a minimalistic and efficient CGPA (Cumulative Grade Po
 
 2.  **Compile and Run:**
     
-    bashCopy code
+    
     
     `g++ cgpa_calculator.cpp -o cgpa_calculator
     ./cgpa_calculator` 
